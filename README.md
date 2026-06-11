@@ -1,8 +1,6 @@
-# Layer 2 Demo Apps
+# AI Labs Demo Apps
 
-This repository is intended to host materials for the practical training labs for the Layer 2 AI Initiative.
-
-The Project Board can be found here: [Layer 2 Board](https://github.com/orgs/msggroup-AI-Labs/projects/1) 
+This repository is intended to host materials for the practical training labs for the AI Labs Initiative.
 
 ## Structure
 
