@@ -5,12 +5,13 @@ This repository is intended to host materials for the practical training labs fo
 ## Structure
 
 - [FullStack Spring and Angular App](fullstack-onlineshop)
+- [Backend Spring Boot App](backend-onlineshop)
 
 ## Contributing
 
 - All changes must go through a PR to the `main` branch.
 - Branch naming convention: `feat/<task_id>-<short-desc>`.
-- Add new content under the respective application folder (e.g., `fullstack-onlineshop/`).
+- Add new content under the respective application folder (e.g., `fullstack-onlineshop/`, `backend-onlineshop/`).
 
 ## Getting Started
 
